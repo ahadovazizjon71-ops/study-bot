@@ -1,0 +1,8 @@
+.cache/
+.vscode/
+.anydesk/
+.mozilla/
+.bash_history
+.env
+venv/
+__pycache__/
